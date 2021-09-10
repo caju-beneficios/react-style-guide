@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-caju-react",
+  "version": "1.0.0",
+  "description": "Caju ESLint React config, following our code style guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/caju-beneficios/react-style-guide.git"
+  },
+  "keywords": [
+    "eslint",
+    "javascript",
+    "react",
+    "caju"
+  ],
+  "author": "Caju Empresa Brasileira de Benefícios e Pagamentos Ltda. <@caju-beneficios>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-import": "2.24.2",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-react": "7.25.1",
+    "eslint-plugin-react-hooks": "4.2.0",
+    "@typescript-eslint/eslint-plugin": "4.29.2",
+    "@typescript-eslint/parser": "4.29.2",
+    "typescript": "4.3.5",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-sort-destructure-keys": "1.3.5"
+  }
+}
