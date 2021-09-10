@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-caju-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Caju ESLint React config, following our code style guide",
   "main": "index.js",
   "scripts": {
