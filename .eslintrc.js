@@ -6,7 +6,7 @@ module.exports = {
   extends: [
     'airbnb-base',
     'plugin:@typescript-eslint/recommended',
-    'import',
+    'plugin:import/recommended',
     'jsx-a11y',
     'react',
     'react-hooks',
