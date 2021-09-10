@@ -7,13 +7,13 @@ module.exports = {
     'airbnb-base',
     'plugin:@typescript-eslint/recommended',
     'plugin:import/recommended',
-    'jsx-a11y',
-    'react',
-    'react-hooks',
+    'plugin:react/recommended',
+    'plugin:react-hooks/recommended',
   ],
   plugins: [
     'sort-destructure-keys',
     '@typescript-eslint',
+    'jsx-a11y',
   ],
   parser: '@typescript-eslint/parser',
   settings: {
